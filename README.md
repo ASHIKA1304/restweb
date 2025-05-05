@@ -1,4 +1,3 @@
-![Screenshot 2025-05-05 122239](https://github.com/user-attachments/assets/d709ce41-210e-4784-a95e-4ba2b5320fba)![Screenshot 2025-05-05 122256](https://github.com/user-attachments/assets/f070ba22-4560-41a5-9124-0c6f37b56899)# Ex.07 Restaurant Website
 ## Date:05-05-2025
 
 ## AIM:
